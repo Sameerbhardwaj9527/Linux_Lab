@@ -24,7 +24,7 @@ $ pwd
 
 IMAGE FOR Above command 
 
-![image](<Pwd command .png>)
+![image](https://github.com/Sameerbhardwaj9527/Linux_Lab/blob/cd949135615e830dcf4b7dc0e29bdb4161957204/Pwd%20command%20.png)
 
 
 
