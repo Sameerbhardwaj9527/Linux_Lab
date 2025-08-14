@@ -48,10 +48,14 @@ Imange OF Above command
 ![image](<ls command 2025-08-12 214612.png>)
  .......
  
+# cd -- change directory
+move into a directory
 
 
 
 
+
+cd Documents
 
 
 
