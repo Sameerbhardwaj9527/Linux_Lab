@@ -17,3 +17,8 @@ cp source_folder/data.txt destination_folder/
 
 ![image](<copy command 2025-08-07 113346.png>)
 
+
+ ---
+
+ ### **the file data.txt was successfully transfered from data folder to projects folder**
+
