@@ -69,4 +69,6 @@ To learn how to download, install, and set up Linux on a Windows system using vi
 
 ![Ubuntu Desktop](<Installed 2025-08-18 170307.png>)
 
+### **congrats you just installed linux**
+
 ---
