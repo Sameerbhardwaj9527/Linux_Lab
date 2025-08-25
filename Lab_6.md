@@ -32,8 +32,8 @@ Variables store data (text, numbers, paths, etc.).
 ### Defining variables
 
 ```bash
-name="Vibhu"
-age=37
+name="sameer bhardwaj"
+age=18
 ```
 
 ⚠️ No spaces around `=`.
@@ -47,7 +47,7 @@ echo "My name is $name and I am $age years old."
 Output:
 
 ```
-My name is Vibhu and I am 37 years old.
+My name is sameer bhardwaj and I am 18 years old.
 ```
 # **"image"**
 ![image](shellscript2.png)
