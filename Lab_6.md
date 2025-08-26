@@ -224,6 +224,12 @@ done
 * `cat` → read file contents
 
 ---
+# **Experiment multiply 2 arrays**
+* array A holds three people (N1,N2,N3)
+* array B holds three ages (18,20,22)
+ # **AIM**
+ ### to multiply the contents of both the arrays
 
-
-
+ # **IMAGE**
+ ![image2](shellscript11.2.png)
+ ![image1](shellscript11.1.png)
