@@ -5,7 +5,7 @@ To learn how to download, install, and set up Linux on a Windows system using vi
 
 ---
 
-## **Reqiuremwnts**
+## **Reqiurements**
 - Windows 10/11 PC
 - Internet connection
 - VirtualBox / VMware (for virtualization) OR Windows Subsystem for Linux (WSL)
