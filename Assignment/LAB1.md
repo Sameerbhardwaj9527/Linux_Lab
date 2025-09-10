@@ -431,3 +431,23 @@ chown root:admin project.sh # Change owner to root and group to admin
 ✅ **Key Tip**: Use **numeric for quick settings** (e.g., 755, 644) and **symbolic for fine adjustments** (`u+x`, `g-w`).
 
 ---
+
+# 📌**Extra questions**
+
+### ❓What is the difference between chmod and chown?
+
+Ans-✅ In short (theory):
+
+chmod → modifies the mode/permissions of a file.
+
+chown → modifies the ownership of a file.
+
+### ❓How do you check current directory and user?
+
+Ans-Current directory → the folder where the process is working.
+
+🔹 Command: `pwd`
+
+Current user → the identity under which the process runs.
+
+🔹 Command: `whoami`
