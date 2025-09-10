@@ -20,8 +20,8 @@ To learn how to download, install, and set up Linux on a Windows system using vi
 3. Click **Download**.
 
 **Image for above step**  
-![install Ubuntu ISO](<ubuntu download 2025-08-18 163707.png>)
 
+![install Ubuntu ISO](<images/ubuntu download 2025-08-18 163707.png>)
 ---
 
 ### **Step 2: Install VirtualBox** (if using Virtual Machine)
@@ -31,7 +31,7 @@ To learn how to download, install, and set up Linux on a Windows system using vi
 
 **Image for above step** 
 
-![install virtual box](<virtual box download 2025-08-18 164121.png>)
+![image](<images/virtual box download 2025-08-18 164121.png>)
 
 ---
 
@@ -44,8 +44,8 @@ To learn how to download, install, and set up Linux on a Windows system using vi
 
 **Image for above step** 
 
-![Create Virtual Machine](<setup  2025-08-18 165234.png>)
 
+![Create Virtual Machine](<images/setup  2025-08-18 165234.png>)
 ---
 
 ### Step 4: Mount the Linux ISO
@@ -56,8 +56,8 @@ To learn how to download, install, and set up Linux on a Windows system using vi
 
 **Image for above step**  
 
-![Memory allocation](<memory1  2025-08-18 165510.png>)
-![Memory allocation](<memory2 2025-08-18 165853.png>)
+![Memory allocation](<images/memory1  2025-08-18 165510.png>)
+![Memory allocation](<images/memory2 2025-08-18 165853.png>)
 
 ---
 ### Step 6: Complete Installation
@@ -67,8 +67,7 @@ To learn how to download, install, and set up Linux on a Windows system using vi
 
 **Image for above step**  
 
-![Ubuntu Desktop](<Installed 2025-08-18 170307.png>)
-
+![installed](<images/Installed 2025-08-18 170307.png>)
 # 🎉**congrats you just installed linux**🎉
 
 

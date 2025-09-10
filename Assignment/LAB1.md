@@ -13,7 +13,7 @@ To learn and demonstrate the usage of basic Linux commands for navigation, file 
 # 1. **pwd** – Print Working Directory
 Displays the current directory path.
 
-![image](<Pwd command .png>)
+![images](<images/Pwd command .png>)
 
 
 ## 2.`ls` Command
@@ -47,7 +47,7 @@ $
 
 Image OF Above command 
 
-![image](<ls command 2025-08-12 214612.png>)
+![image](<images/ls command 2025-08-12 214612.png>)
  .......
  
 # cd -- change directory
@@ -296,8 +296,7 @@ Meaning:
 
 ### **image**
 
-![image](<chmod  2025-08-19 124346.png>)
-
+![image](<images/chmod  2025-08-19 124346.png>)
 ---
 
 ### (B) Symbolic Method
@@ -335,27 +334,25 @@ Add them up:
 ```bash
 chmod u+x script.sh     # Add execute for owner
 ```
-![Image](<chmod2 2025-08-19 130738.png>)
-
+![image](<images/chmod2 2025-08-19 130738.png>)
 
 ```bash
 chmod g-w notes.txt     # Remove write from group
 ```
 
-![image](<chmod3 2025-08-19 130910.png>)
+![image](<images/chmod3 2025-08-19 130910.png>)
 
 ```bash
 chmod o=r file.txt      # Set others to read only
 ``` 
-
-![image](<chmod4 2025-08-19 130959.png>)
+![image](<images/chmod a+r.png>)
 
 
 ```bash
 chmod a+r report.txt    # Everyone gets read access
 ```
 
-![example](<chmod a+r.png>)
+![image](<images/chmod a+r.png>)
 
 ### (C) Recursive Changes
 
@@ -365,8 +362,7 @@ chmod -R 755 /mydir
 
 * `-R` → applies changes recursively to all files/subdirectories.
 
-![image](<chmod recursive 2025-08-19 134628.png>)
-
+![iamge](<images/chmod recursive 2025-08-19 134628.png>)
 ---
 
 ## 🔹 3. `chown` – Change File Ownership

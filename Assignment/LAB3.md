@@ -18,7 +18,8 @@ Enhance and customize an existing script to allow user-defined input and validat
       echo $i
   done
   ```
-  ![image](basicnumber.sh.png)
+
+![image1](images/basicnumber.sh.png)
 
 ## Modified Script: `enhanced_numbers.sh`
 
@@ -78,7 +79,8 @@ do
 done
 ```
 # **image-**
-![image](enhancednumber.sh.png)
+
+![image2](images/enhancednumber.sh.png)
 
 # **Conclusion**
 

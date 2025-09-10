@@ -17,7 +17,7 @@ read lang
 echo "You chose $lang"
 ```
 ### **IMAGE**
-![image](shellscript3.png)
+![image](images/shellscript3.png)
 
 ## 🔹 Arrays
 
@@ -49,8 +49,8 @@ done
 
 `done` → Ends the loop.
 
-![image1](shellscript10.1.png)
-![image2](shellscript10.2.png)
+![image1](images/shellscript10.1.png)
+![image2](images/shellscript10.2.png)
 ---
 
 # 📌Extra Questions:
