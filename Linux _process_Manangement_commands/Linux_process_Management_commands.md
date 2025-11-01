@@ -167,3 +167,13 @@ echo 3050 | sudo tee /sys/fs/cgroup/cpu/testgroup/cgroup.procs
 ![image](images/image4.png)
 
 ---
+# ✅ Summary Table
+
+| **Tool**       | **Focus**                              | **Alternative to**     |
+|----------------|----------------------------------------|------------------------|
+| **chrt**       | Real-time scheduling policies          | nice                   |
+| **ionice**     | I/O priority control                   | (complementary)        |
+| **taskset**    | CPU affinity control                   | (complementary)        |
+| **cgroups**    | Fine-grained resource management       | nice (more powerful)   |
+| **systemd-run**| systemd + cgroups resource management  | nice                   |
+| **schedtool**  | Custom scheduling policies             | nice                   |
