@@ -81,7 +81,7 @@ nice -n 10 sleep 300 &
 renice -n -5 -p 3050
 3050 (process ID) old priority 10, new priority -5
 ```
-
+![image](<images/image 5.png>)
 ---
 
 ## 🔧 **5. CPU Affinity: `taskset`**
@@ -95,7 +95,7 @@ pid 3050's current affinity list: 0-3
 taskset -cp 1 3050
 pid 3050's current affinity list: 1
 ```
-
+![iamge](images/image6.png)
 ---
 
 ## 📂 **6. I/O Scheduling Priority: `ionice`**
@@ -116,7 +116,7 @@ sleep 15082 sameerbhardwaj rtd DIR 8,2 4096 2 /
 sleep 15082 sameerbhardwaj txt REG 8,2 35336 275947 /usr/bin/sleep
 sleep 15082 sameerbhardwaj mem REG 8,2 5719296 278970 /usr/lib/locale/locale-archive
 ```
-
+![image](images/image7.png)
 ---
 
 ## 🐛 **8. Trace System Calls: `strace`**
