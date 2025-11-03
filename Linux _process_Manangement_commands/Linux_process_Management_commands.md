@@ -13,7 +13,7 @@ This document explains various Linux commands to manage and monitor processes.
 ```
 USER       PID  %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 root         1  0.0  0.1 167500  1100 ?        Ss   Sep25   0:05 /sbin/init
-vibhu     1234  1.2  1.5 274532 15632 ?        Sl   10:15   0:12 /usr/bin/python3 script.py
+sameerbhardwaj     1234  1.2  1.5 274532 15632 ?        Sl   10:15   0:12 /usr/bin/python3 script.py
 mysql     2001  0.5  2.0 450000 20988 ?        Ssl  Sep25   1:02 /usr/sbin/mysqld
 ```
 ![image](images/image1.png)
