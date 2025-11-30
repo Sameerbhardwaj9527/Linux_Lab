@@ -71,6 +71,11 @@ int main() {
 - Runs continuously in an infinite loop until the user stops the program with **CTRL+C**.
 
 ---
+
+
+
+
+
 ## **🎯Conclusion**
 
 The Linux-compatible digital clock program demonstrates how C can interact with the system’s real-time clock using standard libraries like `<time.h>` and `<unistd.h>`. By refreshing the terminal using ANSI escape codes, the program provides a smooth, continuously updating display without relying on external commands. This project reinforces concepts such as time handling, infinite loops, terminal control, and real-time output formatting. Overall, it serves as a practical example of how low-level programming can be used to create functional and dynamic console-based applications.
