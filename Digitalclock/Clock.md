@@ -56,10 +56,8 @@ int main() {
     return 0;
 }
 ```
-## **🧪Output**
-<video controls src="images/digi_clock.mp4" title="Title"></video>
 
----
+## **🧪Output**
 ![output](images/output.png)
 ---
 ## **✅What It Does**
